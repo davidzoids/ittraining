@@ -178,4 +178,4 @@ let 步驟 = 0
 當前數字 = 0
 basic.showIcon(IconNames.Happy)
 _0()
-E()
+_2()
